@@ -10,7 +10,7 @@ The analysis involves:
 - Visualizing insights through data-driven charts and reports.
 
 
-##Technologies Used
+## Technologies Used
 
 - Python (Data Analysis & Processing)
 - Pandas (Data Wrangling & Manipulation)
